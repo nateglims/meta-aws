@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+auto_upgrader.egg-info/PKG-INFO
+auto_upgrader.egg-info/SOURCES.txt
+auto_upgrader.egg-info/dependency_links.txt
+auto_upgrader.egg-info/entry_points.txt
+auto_upgrader.egg-info/requires.txt
+auto_upgrader.egg-info/top_level.txt
+upgrader/__init__.py
+upgrader/github/__init__.py
